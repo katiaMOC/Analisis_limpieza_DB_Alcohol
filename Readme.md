@@ -36,9 +36,9 @@ La base de datos contiene las siguientes columnas:
 # Proceso de Limpieza de Datos
 El proceso de limpieza de datos se realizó con los siguientes pasos:
  
-* `'Carga de Datos: '`Se cargaron los datos desde el archivo original.
+* `Carga de Datos:`Se cargaron los datos desde el archivo original.
 * `Revisión y Exploración de Datos:` Se revisaron las características de los datos y se exploraron los valores   únicos de cada columna.
-* `'Tratamiento de Valores Nulos:'` Se identificaron y manejaron los valores nulos en las columnas relevantes.
-*`' Normalización de Datos: '`Se normalizaron los valores de las columnas según la necesidad del análisis.
-* `'Conversión de Tipos de Datos'`: Se convirtieron los tipos de datos de las columnas para asegurar la consistencia.
-* `'Eliminación de Duplicados:'` Se eliminaron registros duplicados para asegurar la integridad de los datos.
+* `Tratamiento de Valores Nulos:` Se identificaron y manejaron los valores nulos en las columnas relevantes.
+*`Normalización de Datos:`Se normalizaron los valores de las columnas según la necesidad del análisis.
+* `Conversión de Tipos de Datos`: Se convirtieron los tipos de datos de las columnas para asegurar la consistencia.
+* `Eliminación de Duplicados:` Se eliminaron registros duplicados para asegurar la integridad de los datos.
